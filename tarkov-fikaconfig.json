@@ -345,8 +345,8 @@
         "FieldName":"SPTAKIVersion",
         "InputType":"text",
         "ParamFieldName":"SPTAKIVersion",
-        "DefaultValue":"3.9.4",
-        "Placeholder":"3.9.4",
+        "DefaultValue":"3.10.0",
+        "Placeholder":"3.10.0",
         "EnumValues":{}
     },
     {
